@@ -1,0 +1,23 @@
+.footerLine {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    background-color: #0a1e2b;
+    margin: 30px 0 ;
+}
+.blue-block, .blue-color {
+    width: 150px;
+    height: 40px;
+    margin: 0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+}
+.blue-block {
+    background-color: cornflowerblue;
+}
+.blue-color {
+    color: cornflowerblue;
+}

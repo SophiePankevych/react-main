@@ -1,0 +1,13 @@
+.text-jsx-photo {
+    display: flex;
+    justify-content: space-around;
+    margin:40px 50px 10px;
+}
+.text-jsx-photo > img {
+    width: 900px;
+    height: 400px;
+}
+.flex {
+    width: 260px;
+    height: 400px;
+}

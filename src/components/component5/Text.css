@@ -1,0 +1,16 @@
+.text {
+    width: 315px;
+    height: 280px;
+}
+.texts {
+    display: flex;
+    justify-content: space-around;
+    margin: 80px 20px 80px 20px;
+}
+.text > span {
+    font-size: 25px;
+    color: #696969;
+}
+.text > p {
+    font-size: 18px;
+}
